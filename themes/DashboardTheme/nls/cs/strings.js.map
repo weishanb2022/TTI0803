@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/cs/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,uBADV;AAEL,qBAAmB,mBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Motiv řídicího panelu\",\r\n  \"_layout_default\": \"Výchozí rozvržení\",\r\n  \"_layout_right\": \"Pravé rozvržení\"\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/ar/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,sBADV;AAEL,qBAAmB,eAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"نُسُق لوحة المعلومات\",\r\n  \"_layout_default\": \"تخطيط افتراضي\",\r\n  \"_layout_right\": \"تخطيط صحيح\"\r\n});"]}

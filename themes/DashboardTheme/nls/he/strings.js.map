@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/he/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,0BADV;AAEL,qBAAmB,kBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"ערכת נושא של לוח מחוונים\",\r\n  \"_layout_default\": \"פריסת ברירת מחדל\",\r\n  \"_layout_right\": \"פריסה ימנית\"\r\n});"]}

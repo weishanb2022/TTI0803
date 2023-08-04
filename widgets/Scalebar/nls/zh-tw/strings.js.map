@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/zh-tw/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,KADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"比例尺\",\r\n  \"scale\": \"比例\"\r\n});"]}

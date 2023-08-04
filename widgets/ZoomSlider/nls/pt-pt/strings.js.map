@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ZoomSlider/nls/pt-pt/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB;AADX,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Barra Deslizante de Zoom\"\r\n});"]}

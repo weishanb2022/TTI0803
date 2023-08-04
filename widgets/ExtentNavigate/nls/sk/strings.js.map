@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/sk/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,kBADX;AAEL,oBAAkB,uBAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Rozsah navigácie\",\r\n  \"previousExtent\": \"Predchádzajúci rozsah\",\r\n  \"nextExtent\": \"Nasledujúci rozsah\"\r\n});"]}

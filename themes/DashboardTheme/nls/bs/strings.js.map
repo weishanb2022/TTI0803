@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/bs/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,qBADV;AAEL,qBAAmB,eAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Tema nadzorne ploče\",\r\n  \"_layout_default\": \"Zadani izgled\",\r\n  \"_layout_right\": \"Pravi izgled\"\r\n});"]}

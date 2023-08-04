@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/th/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,aADV;AAEL,qBAAmB,kBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"ธีมแดชบอร์ด\",\r\n  \"_layout_default\": \"เค้าโครงเริ่มต้น\",\r\n  \"_layout_right\": \"รูปแบบที่เหมาะสม\"\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/zh-tw/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,OADV;AAEL,qBAAmB,QAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"儀表板主題\",\r\n  \"_layout_default\": \"預設版面配置\",\r\n  \"_layout_right\": \"右側版面配置\"\r\n});"]}

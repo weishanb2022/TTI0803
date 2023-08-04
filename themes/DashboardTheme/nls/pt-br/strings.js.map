@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/pt-br/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,gBADV;AAEL,qBAAmB,eAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Tema do Painel\",\r\n  \"_layout_default\": \"Layout Padrão\",\r\n  \"_layout_right\": \"Layout direito\"\r\n});"]}

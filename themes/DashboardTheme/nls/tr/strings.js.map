@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/tr/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,uBADV;AAEL,qBAAmB,kBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Kontrol Paneli Teması\",\r\n  \"_layout_default\": \"Varsayılan düzen\",\r\n  \"_layout_right\": \"Doğru düzen\"\r\n});"]}

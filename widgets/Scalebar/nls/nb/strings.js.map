@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/nb/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,iBADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"målestokklinjal\",\r\n  \"scale\": \"Målestokk\"\r\n});"]}

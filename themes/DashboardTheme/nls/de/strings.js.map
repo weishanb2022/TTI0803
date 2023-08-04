@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/de/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,kBADV;AAEL,qBAAmB,iBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Dashboard-Design\",\r\n  \"_layout_default\": \"Standard-Layout\",\r\n  \"_layout_right\": \"Rechtes Layout\"\r\n});"]}

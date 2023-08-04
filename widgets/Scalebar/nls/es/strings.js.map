@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/es/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,iBADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Barra de escala\",\r\n  \"scale\": \"Escala\"\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/ko/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,OADX;AAEL,oBAAkB,OAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"범위 탐색\",\r\n  \"previousExtent\": \"이전 범위\",\r\n  \"nextExtent\": \"다음 범위\"\r\n});"]}

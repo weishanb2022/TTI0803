@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/fi/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,qBADX;AAEL,oBAAkB,mBAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Siirtymisen laajuus\",\r\n  \"previousExtent\": \"Edellinen laajuus\",\r\n  \"nextExtent\": \"Seuraava laajuus\"\r\n});"]}

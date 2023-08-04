@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/lt/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,iBADV;AAEL,qBAAmB,qBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Suvestinės tema\",\r\n  \"_layout_default\": \"Numatytasis maketas\",\r\n  \"_layout_right\": \"Maketas dešinėje\"\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/ro/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,eADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Bară de scară\",\r\n  \"scale\": \"Scară\"\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/nl/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,kBADX;AAEL,oBAAkB,cAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Extent navigeren\",\r\n  \"previousExtent\": \"Vorig extent\",\r\n  \"nextExtent\": \"Volgend extent\"\r\n});"]}

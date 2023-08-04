@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/OverviewMap/nls/bg/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB;AADX,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Общ преглед на карта\"\r\n});"]}

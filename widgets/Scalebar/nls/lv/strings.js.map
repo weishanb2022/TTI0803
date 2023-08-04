@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/lv/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,cADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Skalas josla\",\r\n  \"scale\": \"Mērogs\"\r\n});"]}

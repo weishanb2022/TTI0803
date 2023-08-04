@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/zh-hk/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,MADX;AAEL,oBAAkB,OAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"範圍導覽\",\r\n  \"previousExtent\": \"上一個範圍\",\r\n  \"nextExtent\": \"下一個範圍\"\r\n});"]}

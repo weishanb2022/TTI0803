@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/fi/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,YADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Mittakaava\",\r\n  \"scale\": \"Mittakaava\"\r\n});"]}

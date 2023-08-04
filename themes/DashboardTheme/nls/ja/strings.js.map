@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/ja/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,aADV;AAEL,qBAAmB,aAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"ダッシュボード テーマ\",\r\n  \"_layout_default\": \"デフォルトのレイアウト\",\r\n  \"_layout_right\": \"右側のレイアウト\"\r\n});"]}

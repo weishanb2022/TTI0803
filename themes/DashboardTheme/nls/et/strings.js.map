@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/et/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,eADV;AAEL,qBAAmB,oBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Töölaua teema\",\r\n  \"_layout_default\": \"Vaikimisi paigutus\",\r\n  \"_layout_right\": \"Parempoolne paigutus\"\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Legend/nls/de/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB;AADX,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Legende\"\r\n});"]}

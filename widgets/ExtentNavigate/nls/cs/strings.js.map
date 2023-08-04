@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/cs/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,iBADX;AAEL,oBAAkB,kBAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Rozsah navigace\",\r\n  \"previousExtent\": \"Předchozí rozsah\",\r\n  \"nextExtent\": \"Další rozsah\"\r\n});"]}

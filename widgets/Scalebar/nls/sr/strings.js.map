@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/sr/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,WADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Razmernik\",\r\n  \"scale\": \"Razmera\"\r\n});"]}

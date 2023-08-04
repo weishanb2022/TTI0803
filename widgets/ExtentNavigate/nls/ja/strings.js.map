@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/ja/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,MADX;AAEL,oBAAkB,MAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"範囲移動\",\r\n  \"previousExtent\": \"前の範囲\",\r\n  \"nextExtent\": \"次の範囲\"\r\n});"]}

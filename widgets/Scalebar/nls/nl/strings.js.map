@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/nl/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,YADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Schaalbalk\",\r\n  \"scale\": \"Schaal\"\r\n});"]}

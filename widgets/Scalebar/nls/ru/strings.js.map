@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/ru/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,oBADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Масштабная линейка\",\r\n  \"scale\": \"Масштаб\"\r\n});"]}

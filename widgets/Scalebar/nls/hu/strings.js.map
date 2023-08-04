@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/hu/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,QADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"lépték\",\r\n  \"scale\": \"Méretarány\"\r\n});"]}

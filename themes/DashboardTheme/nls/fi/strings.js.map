@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/fi/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,oBADV;AAEL,qBAAmB,gBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Koontinäytön teema\",\r\n  \"_layout_default\": \"Oletusasettelu\",\r\n  \"_layout_right\": \"Oikea asettelu\"\r\n});"]}

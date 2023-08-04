@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/th/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,SADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"แถบสเกล\",\r\n  \"scale\": \"มาตราส่วน\"\r\n});"]}

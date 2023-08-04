@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/lt/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,oBADX;AAEL,oBAAkB,oBAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Aprėpties naršymas\",\r\n  \"previousExtent\": \"Ankstesnė aprėptis\",\r\n  \"nextExtent\": \"Kita aprėptis\"\r\n});"]}

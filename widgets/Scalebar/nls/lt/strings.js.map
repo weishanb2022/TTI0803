@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/Scalebar/nls/lt/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,iBADX;AAEL,WAAS;AAFJ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Mastelio juosta\",\r\n  \"scale\": \"Mastelis\"\r\n});"]}

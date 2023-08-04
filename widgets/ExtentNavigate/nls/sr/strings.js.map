@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/sr/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,qBADX;AAEL,oBAAkB,mBAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Navigacija obuhvata\",\r\n  \"previousExtent\": \"Prethodni obuhvat\",\r\n  \"nextExtent\": \"Sledeći obuhvat\"\r\n});"]}

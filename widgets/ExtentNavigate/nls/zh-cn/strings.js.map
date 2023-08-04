@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/zh-cn/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,MADX;AAEL,oBAAkB,MAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"范围导航\",\r\n  \"previousExtent\": \"上一视图\",\r\n  \"nextExtent\": \"下一视图\"\r\n});"]}

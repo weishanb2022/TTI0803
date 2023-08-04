@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/nb/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,eADV;AAEL,qBAAmB,iBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Dashbord-tema\",\r\n  \"_layout_default\": \"Standardoppsett\",\r\n  \"_layout_right\": \"Høyre-oppsett\"\r\n});"]}

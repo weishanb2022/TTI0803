@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/pt-pt/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,mBADX;AAEL,oBAAkB,mBAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Extensão Navigate\",\r\n  \"previousExtent\": \"Extensão anterior\",\r\n  \"nextExtent\": \"Nova extensão\"\r\n});"]}

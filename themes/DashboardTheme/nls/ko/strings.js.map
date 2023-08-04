@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/ko/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,SADV;AAEL,qBAAmB,SAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"대시보드 테마\",\r\n  \"_layout_default\": \"기본 레이아웃\",\r\n  \"_layout_right\": \"오른쪽 레이아웃\"\r\n});"]}

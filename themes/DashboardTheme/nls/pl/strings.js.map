@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/pl/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,cADV;AAEL,qBAAmB,qBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Motyw panelu\",\r\n  \"_layout_default\": \"Kompozycja domyślna\",\r\n  \"_layout_right\": \"Kompozycja prawostronna\"\r\n});"]}

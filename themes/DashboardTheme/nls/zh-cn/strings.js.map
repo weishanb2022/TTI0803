@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/zh-cn/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,OADV;AAEL,qBAAmB,MAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"仪表盘主题\",\r\n  \"_layout_default\": \"默认布局\",\r\n  \"_layout_right\": \"右侧布局\"\r\n});"]}

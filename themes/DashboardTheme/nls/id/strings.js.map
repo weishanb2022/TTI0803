@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/id/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,aADV;AAEL,qBAAmB,oBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Tema Dasbor\",\r\n  \"_layout_default\": \"Tata letak default\",\r\n  \"_layout_right\": \"Tata letak kanan\"\r\n});"]}

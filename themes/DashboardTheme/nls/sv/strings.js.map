@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/sv/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,0BADV;AAEL,qBAAmB,gBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Tema för instrumentpanel\",\r\n  \"_layout_default\": \"Standardlayout\",\r\n  \"_layout_right\": \"Höger layout\"\r\n});"]}

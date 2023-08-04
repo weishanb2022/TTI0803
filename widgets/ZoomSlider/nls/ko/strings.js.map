@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ZoomSlider/nls/ko/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB;AADX,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"확대/축소 슬라이더\"\r\n});"]}

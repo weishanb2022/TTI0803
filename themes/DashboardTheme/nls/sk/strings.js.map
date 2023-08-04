@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/sk/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,iBADV;AAEL,qBAAmB,uBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Motív Dashboard\",\r\n  \"_layout_default\": \"Predvolené rozloženie\",\r\n  \"_layout_right\": \"Rozloženie vpravo\"\r\n});"]}

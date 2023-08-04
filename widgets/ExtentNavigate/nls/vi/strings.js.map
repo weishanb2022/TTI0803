@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ExtentNavigate/nls/vi/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,oBADX;AAEL,oBAAkB,kBAFb;AAGL,gBAAc;AAHT,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Điều hướng Phạm vi\",\r\n  \"previousExtent\": \"Phạm vi trước đó\",\r\n  \"nextExtent\": \"Phạm vi tiếp theo\"\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/ZoomSlider/nls/ro/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB;AADX,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Glisor de zoom\"\r\n});"]}

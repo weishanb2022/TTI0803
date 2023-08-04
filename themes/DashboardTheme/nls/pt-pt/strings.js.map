@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../themes/DashboardTheme/nls/pt-pt/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,iBAAe,mBADV;AAEL,qBAAmB,oBAFd;AAGL,mBAAiB;AAHZ,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_themeLabel\": \"Tema do Dashboard\",\r\n  \"_layout_default\": \"Layout predefinido\",\r\n  \"_layout_right\": \"Layout direita\"\r\n});"]}
